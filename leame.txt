@@ -1,3 +1,5 @@
 practico 
 
 primer cambio rama main
+
+ahora veo el txt el la rama developer
